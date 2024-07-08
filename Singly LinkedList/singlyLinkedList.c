@@ -1,6 +1,6 @@
 /**
  * Author: Abdullah Ahmed
- * Date: 7th June 2024
+ * Date: 7th July 2024
  * Version: 1.0.0
  *
  * C implementation for Integer singly linked list with the below features (Functions)
